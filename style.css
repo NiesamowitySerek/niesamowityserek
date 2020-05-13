@@ -1,0 +1,36 @@
+.tytul1{
+    text-align:right;
+    background-color:silver;
+    color: #11AA33;
+    }
+.tytul2{
+    border: 3px double;
+    letter-spacing: 1mm;
+    }
+.akapit1{
+    color:blue;
+    text-align:right;
+    width: 50%;
+    word-spacing: 1em;
+    text-indent: 5em;
+    }
+.akapit2{
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 15px;
+    letter-spacing: 5px;
+    }
+.akapit3{
+    text-decoration: overline;
+    font-weight: bold;
+    text-indent: 10%;
+    }
+.lista1{
+    list-style-type: lower-alpha;
+    background-color: #FFFFCC;
+    }
+.lista2{
+    list-style-type: square;
+    }
+.lista3{
+    list-style-type: circle;
+    }
